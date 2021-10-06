@@ -1,0 +1,27 @@
+{
+    "id": "3203A736",
+    "path": "~/kamilbartocha_Ekonometria/lab01_task.R",
+    "project_path": "lab01_task.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1633514673933.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "26,0",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1633515996,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633516236379,
+    "read_only": false,
+    "read_only_alternatives": []
+}
