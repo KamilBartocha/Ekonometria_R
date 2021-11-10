@@ -24,3 +24,5 @@ halfnorm(lm.influence(g)$hat
 
 halfnorm(cooks.distance(g),labs=countries
          ,ylab="Cook Statistics")
+
+plot(g)
